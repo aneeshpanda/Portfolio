@@ -1,0 +1,45 @@
+* {
+  background-color: #000000;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.portfolio-img {
+  width: 23vw;
+
+  object-fit: cover;
+}
+
+m1{
+  font-size: 3rem;
+  font-weight: bolder;
+}
+m2{
+  font-size: 3rem;
+
+}
+
+m3{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+m3w{
+  font-size: 1.5rem;
+}
+
+m4{
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+@media (min-width:500){
+
+  .intro{
+    line-height: 2;
+  }
+}
